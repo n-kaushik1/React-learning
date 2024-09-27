@@ -36,3 +36,7 @@
 .spinner{
     margin: 10% 0;
 }
+
+.delete-btn{
+    cursor: pointer;
+}
